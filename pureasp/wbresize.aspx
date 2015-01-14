@@ -10,7 +10,7 @@
 <script runat="server">
 /*  WBRESIZE 0.42 [ASP3 version]
 	by imente 27/05/2008
-	http://www.imente.org/short/wbresize
+    https://github.com/yupswing/wbresize
 	
 	**********************************************************************************
 	
@@ -41,7 +41,7 @@
 	**********************************************************************************
 	
 	QUESTA E' LA VERSIONE PER ASP
-	se cerchi la versione per ASP.net vieni sul sito
+	se cerchi la versione per ASP.net visita https://github.com/yupswing/wbresize
 	
 	**********************************************************************************
 	

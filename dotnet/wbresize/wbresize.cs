@@ -1,6 +1,6 @@
 /*  WBRESIZE 0.42 [ASP.net version]
 	by imente 27/05/2008
-	http://www.imente.org/short/wbresize
+    https://github.com/yupswing/wbresize
 	
 	**********************************************************************************
 	
@@ -36,7 +36,7 @@
 	**********************************************************************************
 	
 	QUESTA E' LA VERSIONE PER ASP.NET
-	se cerchi la versione per ASP 3 vieni sul sito
+	se cerchi la versione per ASP 3 visita https://github.com/yupswing/wbresize
 	
 	**********************************************************************************
 */
